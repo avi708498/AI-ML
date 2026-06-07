@@ -3,4 +3,5 @@ Project of Machine Learning
 <br>
 Projects of Machine Learning 
 <br>
-Libraries used: Numpy, Pandas, Matplotlib, Seaborn, Sikitlearn, Tenserflow,
+Libraries used: Numpy, Pandas, Matplotlib, Seaborn, Sikitlearn, Tenserflow, Vector Database
+
